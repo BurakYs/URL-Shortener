@@ -1,0 +1,24 @@
+{
+  "name": "url-shortener",
+  "version": "1.0.0",
+  "description": "Basic URL Shortener",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BurakYs/url-shortener.git"
+  },
+  "author": "BurakYs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BurakYs/url-shortener/issues"
+  },
+  "homepage": "https://github.com/BurakYs/url-shortener#readme"
+}
